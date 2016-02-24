@@ -1,0 +1,12 @@
+{
+  "name": "glup_sass_introductions",
+  "description": "Basic development setup",
+  "main": "index.js",
+  "authors": [
+    "Jakub Kolar"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/yakkub5/glup_sass_introductions",
+  "moduleType": [],
+  "private": true
+}

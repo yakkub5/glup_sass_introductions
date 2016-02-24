@@ -1,0 +1,19 @@
+{
+  "name": "glup_sass_introductions",
+  "version": "1.0.0",
+  "description": "Basic development setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yakkub5/glup_sass_introductions.git"
+  },
+  "author": "Jakub Kolar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yakkub5/glup_sass_introductions/issues"
+  },
+  "homepage": "https://github.com/yakkub5/glup_sass_introductions#readme"
+}
