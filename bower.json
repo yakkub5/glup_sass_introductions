@@ -8,5 +8,8 @@
   "license": "ISC",
   "homepage": "https://github.com/yakkub5/glup_sass_introductions",
   "moduleType": [],
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "bootstrap-sass": "^3.3.6"
+  }
 }
