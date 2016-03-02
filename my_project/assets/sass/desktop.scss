@@ -1,0 +1,20 @@
+body{
+	background: white;
+}
+
+.introduction-section{
+	*{
+		min-height: 50px;
+		font-size: 30px;
+	}
+	.col-1{
+		background: red;
+	}
+	.col-2{
+		background: green;
+		color: white;
+	}
+	.col-3{
+		background: yellow;
+	}
+}
